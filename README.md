@@ -20,4 +20,4 @@
 ## 참고
 
 [개발자를 위한 웹기술](https://developer.mozilla.org/ko/docs/Web)   
-그림으로 배우는 HTTP&Network Basic - 영진닷컴
+[그림으로 배우는 HTTP&Network Basic - 영진닷컴](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931447897)   
